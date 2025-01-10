@@ -1,1 +1,5 @@
-# pixiball-issues
+# PixiBall Issues
+
+Before reporting an issue try searching for open issues, avoid creating duplicates.
+
+If you have connection issues read this: https://github.com/pixiball/pixiball-issues/wiki/Connection-Issues
